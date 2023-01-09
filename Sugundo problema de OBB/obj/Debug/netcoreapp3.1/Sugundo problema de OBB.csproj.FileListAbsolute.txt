@@ -1,0 +1,14 @@
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.exe
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.deps.json
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.runtimeconfig.json
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.runtimeconfig.dev.json
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.dll
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\bin\Debug\netcoreapp3.1\Sugundo problema de OBB.pdb
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.AssemblyInfoInputs.cache
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.AssemblyInfo.cs
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.dll
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.pdb
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.genruntimeconfig.cache
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.csproj.AssemblyReference.cache
+C:\Users\joelz\source\repos\Sugundo problema de OBB\Sugundo problema de OBB\obj\Debug\netcoreapp3.1\Sugundo problema de OBB.GeneratedMSBuildEditorConfig.editorconfig
